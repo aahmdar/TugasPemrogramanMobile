@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tugas2_PemrogramanMobile</string>
+    <string name="biodata">BIODATA MAHASISWA SISTEM INFORMASI</string>
+    <string name="name">NAMA :</string>
+    <string name="isiname">Aso Ahmad Amin Rais</string>
+    <string name="ttl">Tempat, Tanggal Lahir :</string>
+    <string name="isittl">Makassar, 13 Agustus 2000</string>
+    <string name="mottohidup">Motto Hidup :</string>
+    <string name="isimottohidup">"Perjalanan Masih Panjang, Jangan lupa Beribadah" </string>
+    <string name="gmail">Aahmdar13@gmail.com</string>
+    <string name="wa">WA : +6282323242123</string>
+    <string name="isiartikel">Lorem ipsum, atau ringkasnya lipsum, adalah teks standar yang ditempatkan
+        untuk mendemostrasikan elemen grafis atau presentasi visual seperti font, tipografi, dan tata
+        letak. Maksud penggunaan lipsum adalah agar pengamat tidak terlalu berkonsentrasi kepada arti
+        harfiah per kalimat, melainkan lebih kepada elemen desain dari teks yang dipresentasi.Lorem ipsum
+        disebut juga dengan greeking (melatinkan/meyunanikan) karena kalimat ini berasal dari bahasa
+        Latin.</string>
+</resources>
